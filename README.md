@@ -2,8 +2,8 @@
 
 This is the starter code for lab 1, see [Android University Course - Lab 1](https://courses.codepath.org/courses/android_university/unit/1#!exercises) for additional instructions.
 
-## Video Walkthrough
+## Gif Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented for lab 1:
 
-<img src='url here' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/nanijay7/android_university_lab1/blob/main/Lab1Jerry.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
